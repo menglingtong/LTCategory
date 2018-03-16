@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LTCategory"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "LTCategory is a toolkit."
 
   # This description is used to generate tags and improve search results.
@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "LTCategory/LTCategoryFolder/*"
+  s.source_files  = "LTCategoryFolder/*"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
